@@ -5,7 +5,7 @@ Official Source Created by Henrik Rydgård
 
 [Official website](https://www.ppsspp.org/)
 
-[Discord](https://discord.gg/5NJB6dD)
+[Official Discord](https://discord.gg/5NJB6dD)
 
 No BIOS file required to play, PPSSPP is an "HLE" emulator.  Default settings balance good compatibility and speed.
 
